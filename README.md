@@ -48,7 +48,7 @@ Install python3 and jupyter notebook to run the notebooks. To access BiqQuery ta
 - BQ_TABLE = "patentDocument"
 
 ## Jupyter Notebook
-Jupyter notebook has been created for testing purpose. you can examining how data has been extracted and transformed. I also added some Statistical Insights on tranformed dataframe.
+Jupyter notebook has been created for testing purpose. you can examining how data has been extracted and transformed. 
 
 ## Deployment on GCP as a Cloud Function 
 You can download the zip source code "function-source.zip" and upload it into your cloud function 

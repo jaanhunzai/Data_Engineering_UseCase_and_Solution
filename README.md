@@ -39,7 +39,10 @@ Install python3 and jupyter notebook to run the notebooks. To access BiqQuery ta
 
 
 ## Code Examples
-- PROJECT_ID = os.getenv("GCP_PROJECT")
+- ETL 
+- extract xml data from cloud storage bucket
+- parse the xml data and transform data in to records. I use Pandas dataframe  
+- load transformed dataframe into BigQuery table 
 - print(PROJECT_ID)
 - BQ_DATASET = "test_dataset"
 - BQ_TABLE = "patentDocument"

@@ -1,4 +1,4 @@
-# A tech case for the Dennemeyer Octimine Team
+# A tech case from the Dennemeyer Octimine Team
 
 
 The challenge below is meant to assess skills that we think are crucial for this data engineering position at CareerFoundry.

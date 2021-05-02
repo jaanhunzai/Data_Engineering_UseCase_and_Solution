@@ -3,9 +3,10 @@
 
 ## General info
 1 The technical case
-Input: xml data as an input
-Output:
-• Relational tables in the database (feel free to define the schema as you see fit).
+- Input:
+     xml data as an input
+- Output:
+    Relational tables in the database (feel free to define the schema as you see fit).
 
 ## Technologies
 * jupyter notebook

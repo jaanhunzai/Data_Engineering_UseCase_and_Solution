@@ -3,23 +3,7 @@
 
 ## General info
 1 The technical case
-We have a shared folder on FTP server where our data provider every week uploads patent data
-updates in XML format (Each document is represented as <exch:exchange-document>).
-Example package of such files can be found here:
-https://drive.google.com/file/d/1u0BNdA2xIRF_FzovAXYGS-wCkrchcy46/view?usp=sharing
-Please design a proof-of-concept for a data processing pipeline to parse the input files and
-import them into relational database for further analysis and processing.
-Elements to extract from the input files:
-• country
-• doc-number
-• kind
-• doc-id
-• date-publ
-• family-id
-• classification-ipcr (only text)
-• exch:applicant-name (only name)
-• exch:invention-title
-• exch:abstract
+Input: xml data as an input
 Output:
 • Relational tables in the database (feel free to define the schema as you see fit).
 

@@ -1,8 +1,6 @@
 # A tech case from the Dennemeyer Octimine Team
 
 
-The challenge below is meant to assess skills that we think are crucial for this data engineering position at CareerFoundry.
-
 ## General info
 1 The technical case
 We have a shared folder on FTP server where our data provider every week uploads patent data

@@ -1,4 +1,4 @@
-# A tech case from the Dennemeyer Octimine Team
+# A Data engineering tech. UseCase and Solution
 
 
 ## General info
@@ -81,7 +81,7 @@ AirFlow DAG Tasks
 Project is: _finished_, 
 
 ## Inspiration
-I would like to thanks Dennemeyer Octimine team for sending such an interesting task to worked on
+
 
 ## Contact
 * Created by Sahib Jan [jaanhunzai.512@gmail.com]- feel free to contact me!
